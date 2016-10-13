@@ -1,0 +1,14 @@
+/**
+ * Created by edward.yuen on 10/13/2016.
+ */
+export function sumTwo(a, b)
+{
+    return a + b;
+}
+
+export function sumThree(a, b, c)
+{
+    return a + b + c;
+}
+
+// export {sumTwo, sumThree};
